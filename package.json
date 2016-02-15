@@ -1,0 +1,13 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "nodejs ./bin/www"
+  },
+  "dependencies": {
+    "express": "2.5.8",
+    "jade": ">= 0.0.1",
+    "bower": "~1.7.7"
+  }
+}

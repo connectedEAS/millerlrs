@@ -1,0 +1,24 @@
+{
+  "name": "rlmlaw",
+  "description": "",
+  "main": "",
+  "authors": [
+    "chris@nolaspring.net"
+  ],
+  "license": "private",
+  "homepage": "rebeccamillerlaw.com",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.0",
+    "jquery": "^2.2.0"
+  }
+}
